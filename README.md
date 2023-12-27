@@ -5,3 +5,4 @@
     - Testuotas Google Colab'e, paduodant jam vieną foto. 
     ![Vidutinio greicio matuoklio zenklas](vidutinis.jpg)
     - Detection'as veikia puikiai, tą patį reikėtų gauti Recognition.py faile realiu laiku, naudojant kamerą.
+    - Google Colab'e paleidau detect.py tai į jį ir reikėtų žiūrėti: [detect.py](https://github.com/ultralytics/yolov5/blob/master/detect.py)
